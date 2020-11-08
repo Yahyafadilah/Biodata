@@ -22,12 +22,6 @@ Untuk menampilkan output string (str), gunakan tanda petik dua didalam fungsi pr
 2.  Membuat hasil output, dengan langkah - langkah sebagai berikut : 
 <img width="471" alt="BIODATA OUTPUT" src="https://user-images.githubusercontent.com/72985112/98250668-52dc4200-1faa-11eb-9c2e-24ea633b8e0a.png">
 
-3. Hasil Run, BErikut adalah hasil run dari input dan output yang teah dijalankan : 
+3. Hasil Run, Berikut adalah hasil run dari input dan output yang teah dijalankan : 
 <img width="695" alt= "RUN BIODATA" src="https://user-images.githubusercontent.com/48075659/98464385-2700cc80-21f5-11eb-8d11-9ea8477bfdbf.png">
 
-
-**Keterangan**
-> Untuk menampilkan output string, gunakan tanda petik dua didalam fungsi print(), sedangkan jika ingin menampilkan output / hasil berupa angka / interger  tidak perlu menggunakan tanda petik dua.
-> Variable adalah sebuah wadah penyimpanan data pada program yang akan digunakan selama program itu berjalan. Yang ## berfungsi sebagai variable dalam source code diatas adalah fullname .
-> Fungsi input() adalah untuk memasukan nilai dar layar console di command prompt, lalu kemudian mengembalikan nilai saat kita menekan tombol enter (newline)
-> Untuk memasukan perintah lain seperti Nama, NIM, Tempat Lahir, Umur, No Telpon, mengikuti perintah yang sama seperti memasukan fullname
