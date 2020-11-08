@@ -21,7 +21,7 @@ Untuk menampilkan output string (str), gunakan tanda petik dua didalam fungsi pr
 <img width="471" alt="BIODATA OUTPUT" src="https://user-images.githubusercontent.com/72985112/98250668-52dc4200-1faa-11eb-9c2e-24ea633b8e0a.png">
 
 3. Hasil Run, BErikut adalah hasil run dari input dan output yang teah dijalankan : 
-<img width="695" alt= Biodata" src="https://user-images.githubusercontent.com/48075659/98464385-2700cc80-21f5-11eb-8d11-9ea8477bfdbf.png">
+<img width="695" alt= "RUN BIODATA" src="https://user-images.githubusercontent.com/48075659/98464385-2700cc80-21f5-11eb-8d11-9ea8477bfdbf.png">
 
 
 **Keterangan**
